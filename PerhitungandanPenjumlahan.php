@@ -102,11 +102,11 @@
 
     <div class="calculator-container">
         <form method="post">
-            <label for="num1">Number 1:</label>
+            <label for="num1">Nilai 1:</label>
             <input type="number" name="num1" required>
             <br>
 
-            <label for="num2">Number 2:</label>
+            <label for="num2">Nilai 2:</label>
             <input type="number" name="num2" required>
             <br>
 
